@@ -1,3 +1,15 @@
+### Description
+
+This is my solution to the second programming assignment of the R programming
+course on Coursera. Below you can find the original assignment text to provide 
+the required information on what the goal of this assignment is.
+
+For the purpose of this assignment I started by forking the provided repo, using the code
+from the provided example vector functions and making the updates needed to achieve the required functionality. 
+
+I also added more detailed comments, so I hope these will help with the readability of this piece of code.
+
+##Original Assignment Readme:
 ### Introduction
 
 This second programming assignment will require you to write an R
