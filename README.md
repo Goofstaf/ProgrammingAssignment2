@@ -9,7 +9,8 @@ from the provided example vector functions and making the updates needed to achi
 
 I also added more detailed comments, so I hope these will help with the readability of this piece of code.
 
-##Original Assignment Readme:
+## Original Assignment Readme:
+
 ### Introduction
 
 This second programming assignment will require you to write an R
